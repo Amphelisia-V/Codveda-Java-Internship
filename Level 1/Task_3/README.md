@@ -39,4 +39,4 @@ java Factorial_Calculation
 
 ## Author
 
-Amphelisia_Velly
+AmphelisiaVelly

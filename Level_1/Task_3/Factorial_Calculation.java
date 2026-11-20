@@ -1,4 +1,4 @@
-package Task_3;
+package Level_1.Task_3;
 import java.util.Scanner;
 public class Factorial_Calculation {
 

@@ -1,11 +1,11 @@
-package Task_2;
+package Level_1.Task_2;
 
 import java.util.Scanner;
 import java.util.Random;
 public class NumberGuessingGame {
 
     public static void main(String[] args) {
-      
+      System.out.println("Welcome to the Number Guessing Game!");
         Random random=new Random();
         Scanner input = new Scanner(System.in);
         int answer= random.nextInt(100)+1;

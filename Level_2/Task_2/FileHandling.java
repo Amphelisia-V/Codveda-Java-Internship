@@ -24,7 +24,7 @@ public class FileHandling {
              FileWriter fw= new FileWriter(output);
                 BufferedWriter bw=new BufferedWriter(fw);
             String line;
-
+                
             //readline() loop
             while((line=br.readLine()) != null) //why use check null, because "စာကြောင်းဖတ်လို့ရနေသရွေ့ (null မဖြစ်သေးသရွေ့) loop ကို ဆက်လုပ်ပါ"
             {

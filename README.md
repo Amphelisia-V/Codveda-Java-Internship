@@ -1,6 +1,6 @@
 ﻿# Level 1 Tasks
 
-This folder contains Java tasks completed during the Codveda Java Development Internship.
+This repository contains Java tasks completed during the Codveda Java Development Internship.
 
 ## Completed Tasks
 
@@ -83,14 +83,60 @@ The application allows users to manage a bank account through a menu-driven syst
 - Loops
 - Switch Statement
 
+# Level 3 Tasks
 
-## Technologies Used
+This repository contains Level 3 tasks completed during the Java Development Internship.
+
+---
+
+# Task 2: Multithreaded Chat Application
+
+## Description
+
+A console-based chat application developed in Java that allows multiple users to communicate with each other through socket programming and multithreading.
+
+## Objectives
+> Implement server and client classes using Java Sockets.
+> Use threads to handle multiple clients simutaneously.
+> Broadcast messages from one client to all connected clients.
+
+## Features
+
+> Client-server communication using Socket programming.
+> Multiple clients can connect to the server.
+> Each client is handled by a separate thread.
+> Messages are broadcast to all connected clients.
+> Real-time console-based chat communication.
+
+# Task 3: Binary Search Tree (BST)
+
+## Description
+
+A Binary Search Tree implementation developed in Java with operations including insertion, deletion, searching, and tree traversal.
+
+## Objectives
+> Create a TreeNode class to represent nodes.
+> Implement insertion, deletion, and search operations.
+> Perform different tree traversal techniques.
+
+## Features
+
+> Insert nodes into Binary Search Tree.
+> Delete nodes from BST.
+> Search nodes.
+> Perform:
+    -In-order traversal
+    -Pre-order traversal
+    -Post-order traversal
+
+## Technologies & Concepts Used
 
 - Java
-- Scanner
-- Random
 - Recursion
 - Object-Oriented Programming (OOP)
+- Socket Programming
+- Multithreading
+- Binary Search Tree Data Structure
 
 ## Author
 
